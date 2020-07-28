@@ -17,4 +17,6 @@
 
 <br/>
 
-![profile](https://i.ibb.co/rfLZsLt/lande-talk.jpg)
+<p align="center">
+  <img src="https://i.ibb.co/rfLZsLt/lande-talk.jpg"/>
+</p>
