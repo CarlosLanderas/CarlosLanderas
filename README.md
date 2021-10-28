@@ -1,6 +1,6 @@
 
 
-### Hi 👋, my name is Carlos Landeras and I work as a Software Development Team Lead at [PlainConcepts](https://www.plainconcepts.com)
+### Hi 👋, my name is Carlos Landeras and I work as a Staff Software Engineer at Glovo
 
 <br/>
 <p align="left">
