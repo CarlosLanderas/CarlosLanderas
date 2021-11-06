@@ -11,6 +11,11 @@
 <br/>
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosLanderas&show_icons=true&theme=cobalt&count_private=false&hide=stars&count_private=true)
+
+![Achievements](https://github-profile-trophy.vercel.app/?username=CarlosLanderas&theme=cobalt&margin-w=15)
+
+
 - 💬 Pronouns: He / Him
 - 📫 How to reach me: carlos.landeras@gmail.com
 - 💻 I write code with C#, Golang, Javacript and Rust
