@@ -18,7 +18,7 @@
 
 - 💬 Pronouns: He / Him
 - 📫 How to reach me: carlos.landeras@gmail.com
-- 💻 I write code with C#, Golang, Javacript and Rust
+- 💻 I write code with C#, Java, Golang and Rust
 
 <br/>
 
