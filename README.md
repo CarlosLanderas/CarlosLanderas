@@ -25,8 +25,3 @@
 ![Carlos's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=carloslanderas&theme=cobalt)
 
 ![Carlos's GitHub trophies](https://github-profile-trophy.vercel.app/?username=carloslanderas)
-
-
-<p align="left">
-  <img src="https://i.ibb.co/rfLZsLt/lande-talk.jpg"/>
-</p>
