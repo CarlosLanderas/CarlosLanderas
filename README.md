@@ -1,7 +1,7 @@
 
 
 <h2 align="left">Hi 👋, I'm Carlos Landeras</h1>
-<h3 align="left">I work as a Staff Software Engineer at Glovo</h3>
+<h3 align="left">I work as a Staff Software Engineer at Glovo <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/glovoapp_logo_icon_169104.png" height="18"/></h3>
 
 <br/>
 <p align="left">
