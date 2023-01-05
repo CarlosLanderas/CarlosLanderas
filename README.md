@@ -1,6 +1,7 @@
 
 
-### Hi 👋, my name is Carlos Landeras and I work as a Staff Software Engineer at Glovo
+<h2 align="left">Hi 👋, I'm Carlos Landeras</h1>
+<h3 align="left">I work as a Staff Software Engineer at Glovo</h3>
 
 <br/>
 <p align="left">
@@ -11,17 +12,21 @@
 <br/>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosLanderas&show_icons=true&theme=cobalt&count_private=false&hide=stars&count_private=true)
-
-![Achievements](https://github-profile-trophy.vercel.app/?username=CarlosLanderas&theme=cobalt&margin-w=15)
-
-
 - 💬 Pronouns: He / Him
 - 📫 How to reach me: carlos.landeras@gmail.com
 - 💻 I write code with C#, Kotlin, Java, Golang and Rust
 
 <br/>
 
-<p align="center">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=carloslanderas&label=Profile%20views&color=0e75b6&style=flat" alt="carloslanderas" /> </p>
+
+![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carloslanderas&count_private=true&theme=cobalt)
+
+![Carlos's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=carloslanderas&theme=cobalt)
+
+![Carlos's GitHub trophies](https://github-profile-trophy.vercel.app/?username=carloslanderas)
+
+
+<p align="left">
   <img src="https://i.ibb.co/rfLZsLt/lande-talk.jpg"/>
 </p>
